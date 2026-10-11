@@ -10,9 +10,9 @@
 
 <br>
 
-![Status](https://img.shields.io/badge/status-early%20development-555555?style=flat-square)
-![Focus](https://img.shields.io/badge/focus-engineering%20research-333333?style=flat-square)
-![Approach](https://img.shields.io/badge/approach-scientific%20experimentation-555555?style=flat-square)
+![Status](assets/label/status-early_development.svg)
+![Focus](assets/label/focus-engineering_research.svg)
+![Approach](assets/label/approach-scientific_experimentation.svg)
 
 </div>
 
